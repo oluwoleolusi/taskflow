@@ -108,7 +108,7 @@ export default function MobileNav() {
 
           <div className="mt-6">
             <p className="px-2.5 text-xs font-medium uppercase tracking-wide text-ink-faint">
-              Projects
+              Projectss
             </p>
             <div className="mt-1.5 space-y-0.5">
               {projects.map((project) => (

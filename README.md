@@ -1,6 +1,6 @@
 # TaskFlow
 
-A portfolio concept SaaS product — a focused task and project management
+A portfolio concept SaaS product — focused task and project management
 workspace. Fully functional on the frontend: real shared state, real
 filtering/sorting, real persistence. No backend, no auth, no database.
 
